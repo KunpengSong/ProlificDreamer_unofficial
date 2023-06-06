@@ -11,7 +11,7 @@ Starting from stable-dreamfusion, I:
 - achieved improved results in text-to-3D than Dreamfusion
 
 To Do list:
-- add timestep annealing
+- add timestep annealing (on going)
 - scale up resolution
 - add image-to-3D
 
